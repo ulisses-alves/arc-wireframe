@@ -1,0 +1,677 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:1001px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u0 {
+  position:absolute;
+  left:10px;
+  top:10px;
+  width:100px;
+  height:100px;
+}
+#u0_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:100px;
+  height:100px;
+}
+#u1 {
+  position:absolute;
+  left:2px;
+  top:42px;
+  width:96px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u2 {
+  position:absolute;
+  left:10px;
+  top:201px;
+  width:88px;
+  height:35px;
+  font-family:'Century Gothic Bold', 'Century Gothic';
+  font-weight:700;
+  font-style:normal;
+  font-size:28px;
+}
+#u2_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:88px;
+  height:35px;
+}
+#u3 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:88px;
+  white-space:nowrap;
+}
+#u4 {
+  position:absolute;
+  left:10px;
+  top:239px;
+  width:976px;
+  height:10px;
+}
+#u4_start {
+  position:absolute;
+  left:0px;
+  top:-5px;
+  width:18px;
+  height:20px;
+}
+#u4_end {
+  position:absolute;
+  left:959px;
+  top:-5px;
+  width:18px;
+  height:20px;
+}
+#u4_line {
+  position:absolute;
+  left:0px;
+  top:5px;
+  width:976px;
+  height:1px;
+}
+#u5 {
+  position:absolute;
+  left:758px;
+  top:223px;
+  width:231px;
+  height:10px;
+}
+#u5_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:231px;
+  height:10px;
+}
+#u6 {
+  position:absolute;
+  left:2px;
+  top:-3px;
+  width:227px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u7 {
+  position:absolute;
+  left:758px;
+  top:223px;
+  width:231px;
+  height:10px;
+}
+#u7_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:231px;
+  height:10px;
+}
+#u8 {
+  position:absolute;
+  left:2px;
+  top:-3px;
+  width:227px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u9 {
+  position:absolute;
+  left:828px;
+  top:207px;
+  width:98px;
+  height:16px;
+  font-family:'Century Gothic Regular', 'Century Gothic';
+  font-weight:400;
+  font-style:normal;
+  font-size:11px;
+}
+#u9_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:98px;
+  height:16px;
+}
+#u10 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:98px;
+  white-space:nowrap;
+}
+#u11 {
+  position:absolute;
+  left:10px;
+  top:830px;
+  width:991px;
+  height:10px;
+}
+#u11_start {
+  position:absolute;
+  left:0px;
+  top:-5px;
+  width:18px;
+  height:20px;
+}
+#u11_end {
+  position:absolute;
+  left:974px;
+  top:-5px;
+  width:18px;
+  height:20px;
+}
+#u11_line {
+  position:absolute;
+  left:0px;
+  top:5px;
+  width:991px;
+  height:1px;
+}
+#u12 {
+  position:absolute;
+  left:648px;
+  top:203px;
+  width:100px;
+  height:30px;
+  font-family:'Century Gothic Regular', 'Century Gothic';
+  font-weight:400;
+  font-style:normal;
+}
+#u12_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:100px;
+  height:30px;
+}
+#u13 {
+  position:absolute;
+  left:2px;
+  top:6px;
+  width:96px;
+  word-wrap:break-word;
+}
+#u14 {
+  position:absolute;
+  left:10px;
+  top:270px;
+  width:976px;
+  height:500px;
+  font-family:'Century Gothic Bold', 'Century Gothic';
+  font-weight:700;
+  font-style:normal;
+  font-size:16px;
+  text-align:center;
+}
+#u14_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:976px;
+  height:500px;
+}
+#u15 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:976px;
+  word-wrap:break-word;
+}
+#u16 {
+  position:absolute;
+  left:812px;
+  top:489px;
+  width:170px;
+  height:60px;
+  font-family:'Century Gothic Regular', 'Century Gothic';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+}
+#u16_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:170px;
+  height:60px;
+}
+#u17 {
+  position:absolute;
+  left:2px;
+  top:19px;
+  width:166px;
+  word-wrap:break-word;
+}
+#u18 {
+  position:absolute;
+  left:13px;
+  top:489px;
+  width:170px;
+  height:60px;
+  font-family:'Century Gothic Regular', 'Century Gothic';
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+}
+#u18_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:170px;
+  height:60px;
+}
+#u19 {
+  position:absolute;
+  left:2px;
+  top:19px;
+  width:166px;
+  word-wrap:break-word;
+}
+#u20 {
+  position:absolute;
+  left:870px;
+  top:528px;
+  width:52px;
+  height:13px;
+  font-family:'Century Gothic Regular', 'Century Gothic';
+  font-weight:400;
+  font-style:normal;
+  font-size:9px;
+  color:#999999;
+}
+#u20_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:52px;
+  height:13px;
+}
+#u21 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:52px;
+  white-space:nowrap;
+}
+#u22 {
+  position:absolute;
+  left:59px;
+  top:528px;
+  width:80px;
+  height:13px;
+  font-family:'Century Gothic Regular', 'Century Gothic';
+  font-weight:400;
+  font-style:normal;
+  font-size:9px;
+  color:#999999;
+}
+#u22_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:80px;
+  height:13px;
+}
+#u23 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:80px;
+  white-space:nowrap;
+}
+#u24 {
+  position:absolute;
+  left:199px;
+  top:255px;
+  width:10px;
+  height:545px;
+}
+#u24_start {
+  position:absolute;
+  left:-5px;
+  top:0px;
+  width:20px;
+  height:18px;
+}
+#u24_end {
+  position:absolute;
+  left:-5px;
+  top:528px;
+  width:20px;
+  height:18px;
+}
+#u24_line {
+  position:absolute;
+  left:5px;
+  top:0px;
+  width:1px;
+  height:545px;
+}
+#u25 {
+  position:absolute;
+  left:785px;
+  top:255px;
+  width:10px;
+  height:545px;
+}
+#u25_start {
+  position:absolute;
+  left:-5px;
+  top:0px;
+  width:20px;
+  height:18px;
+}
+#u25_end {
+  position:absolute;
+  left:-5px;
+  top:528px;
+  width:20px;
+  height:18px;
+}
+#u25_line {
+  position:absolute;
+  left:5px;
+  top:0px;
+  width:1px;
+  height:545px;
+}
+#u26 {
+  position:absolute;
+  left:538px;
+  top:203px;
+  width:100px;
+  height:30px;
+  font-family:'Century Gothic Regular', 'Century Gothic';
+  font-weight:400;
+  font-style:normal;
+}
+#u26_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:100px;
+  height:30px;
+}
+#u27 {
+  position:absolute;
+  left:2px;
+  top:6px;
+  width:96px;
+  word-wrap:break-word;
+}
+#u28 {
+  position:absolute;
+  left:866px;
+  top:50px;
+  width:65px;
+  height:17px;
+  font-family:'Century Gothic Regular', 'Century Gothic';
+  font-weight:400;
+  font-style:normal;
+}
+#u28_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:65px;
+  height:17px;
+}
+#u29 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:65px;
+  white-space:nowrap;
+}
+#u30 {
+  position:absolute;
+  left:940px;
+  top:55px;
+  width:11px;
+  height:10px;
+  -webkit-transform:rotate(180deg);
+  -moz-transform:rotate(180deg);
+  -ms-transform:rotate(180deg);
+  transform:rotate(180deg);
+}
+#u30_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:11px;
+  height:10px;
+}
+#u31 {
+  position:absolute;
+  left:2px;
+  top:-3px;
+  width:7px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u32 {
+  position:absolute;
+  left:834px;
+  top:48px;
+  width:25px;
+  height:25px;
+}
+#u32_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:25px;
+  height:25px;
+}
+#u33 {
+  position:absolute;
+  left:2px;
+  top:4px;
+  width:21px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u34 {
+  position:absolute;
+  left:789px;
+  top:94px;
+  width:200px;
+  height:106px;
+}
+#u34_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:106px;
+}
+#u35 {
+  position:absolute;
+  left:2px;
+  top:45px;
+  width:196px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u36 {
+  position:absolute;
+  left:812px;
+  top:76px;
+  width:79px;
+  height:15px;
+  font-family:'Century Gothic Regular', 'Century Gothic';
+  font-weight:400;
+  font-style:normal;
+  font-size:10px;
+}
+#u36_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  height:15px;
+}
+#u37 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:79px;
+  white-space:nowrap;
+}
+#u38 {
+  position:absolute;
+  left:808px;
+  top:127px;
+  width:69px;
+  height:17px;
+  font-family:'Century Gothic Regular', 'Century Gothic';
+  font-weight:400;
+  font-style:normal;
+}
+#u38_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:69px;
+  height:17px;
+}
+#u39 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:69px;
+  white-space:nowrap;
+}
+#u40 {
+  position:absolute;
+  left:808px;
+  top:155px;
+  width:47px;
+  height:17px;
+  font-family:'Century Gothic Regular', 'Century Gothic';
+  font-weight:400;
+  font-style:normal;
+}
+#u40_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:47px;
+  height:17px;
+}
+#u41 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:47px;
+  white-space:nowrap;
+}
+#u42 {
+  position:absolute;
+  left:789px;
+  top:94px;
+  width:200px;
+  height:106px;
+}
+#u42_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:106px;
+}
+#u43 {
+  position:absolute;
+  left:2px;
+  top:45px;
+  width:196px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u44 {
+  position:absolute;
+  left:863px;
+  top:162px;
+  width:58px;
+  height:17px;
+  font-family:'Century Gothic Regular', 'Century Gothic';
+  font-weight:400;
+  font-style:normal;
+}
+#u44_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:58px;
+  height:17px;
+}
+#u45 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:58px;
+  white-space:nowrap;
+}
+#u46 {
+  position:absolute;
+  left:867px;
+  top:115px;
+  width:43px;
+  height:43px;
+}
+#u46_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:43px;
+  height:43px;
+}
+#u47 {
+  position:absolute;
+  left:2px;
+  top:14px;
+  width:39px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
+#u48 {
+  position:absolute;
+  left:120px;
+  top:30px;
+  width:220px;
+  height:55px;
+  font-family:'Century Gothic Regular', 'Century Gothic';
+  font-weight:400;
+  font-style:normal;
+}
+#u48_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:220px;
+  height:55px;
+}
+#u49 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:220px;
+  white-space:nowrap;
+}
